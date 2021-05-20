@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://pixelmate:kumar1999@devconnector.vvycf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"MySecertToken"
+    }
